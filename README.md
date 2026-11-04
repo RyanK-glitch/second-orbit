@@ -4,6 +4,8 @@ A production-style marketplace for reselling second-hand goods: a futuristic, ac
 
 **Developer:** Ryan Kekulthotuwage
 
+![A tour of Second Orbit: the home page, browsing the shop, a product page, switching to dark mode, and the staff back office](docs/preview.gif)
+
 > **A portfolio project, in test mode only.** It isn't a real shop, and no real money or goods change hands. Every integration runs on a local mock by default, and the real adapters accept only test-mode keys. The Stripe adapter refuses `sk_live_` keys. No card data ever touches this app.
 
 ## Highlights
