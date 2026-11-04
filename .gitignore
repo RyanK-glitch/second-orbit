@@ -1,0 +1,17 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+
+# Local data: uploaded media, mock label files
+.data/
+
+# Secrets: only .env.example is committed
+.env
+.env.*
+!.env.example
+
+# Test output
+playwright-report/
+test-results/
+tests/fixtures/generated/

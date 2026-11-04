@@ -1,0 +1,895 @@
+{
+  "iphone-13-midnight": [
+    {
+      "title": "iPhone 13 for Tora",
+      "creator": "yto",
+      "creator_url": "https://www.flickr.com/photos/27983255@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/27983255@N00/52641595588",
+      "provider": "flickr",
+      "file": "iphone-13-midnight-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "iPhone 13",
+      "creator": "yto",
+      "creator_url": "https://www.flickr.com/photos/27983255@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/27983255@N00/52344937813",
+      "provider": "flickr",
+      "file": "iphone-13-midnight-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "iPhone 13 for Tora",
+      "creator": "yto",
+      "creator_url": "https://www.flickr.com/photos/27983255@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/27983255@N00/52641595588",
+      "provider": "flickr",
+      "file": "iphone-13-midnight-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "sony-wh1000xm4": [
+    {
+      "title": "Sony headphones",
+      "creator": "unmatchedv",
+      "creator_url": "https://www.flickr.com/photos/142226251@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/142226251@N08/43930381161",
+      "provider": "flickr",
+      "file": "sony-wh1000xm4-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Sony headphones",
+      "creator": "unmatchedv",
+      "creator_url": "https://www.flickr.com/photos/142226251@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/142226251@N08/30061535108",
+      "provider": "flickr",
+      "file": "sony-wh1000xm4-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Sony headphones",
+      "creator": "unmatchedv",
+      "creator_url": "https://www.flickr.com/photos/142226251@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/142226251@N08/43930381161",
+      "provider": "flickr",
+      "file": "sony-wh1000xm4-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "fujifilm-xt30": [
+    {
+      "title": "Fujifilm X-T30 + Fujinon 16mm F2.8 lens",
+      "creator": "Janitors",
+      "creator_url": "https://www.flickr.com/photos/65265630@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/65265630@N03/33636409048",
+      "provider": "flickr",
+      "file": "fujifilm-xt30-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Fujifilm X-T30 + Fujinon 16mm F2.8 lens",
+      "creator": "Janitors",
+      "creator_url": "https://www.flickr.com/photos/65265630@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/65265630@N03/33636408018",
+      "provider": "flickr",
+      "file": "fujifilm-xt30-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Fujifilm X-T30 + Fujinon 16mm F2.8 lens",
+      "creator": "Janitors",
+      "creator_url": "https://www.flickr.com/photos/65265630@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/65265630@N03/33636409048",
+      "provider": "flickr",
+      "file": "fujifilm-xt30-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "macbook-air-m1": [
+    {
+      "title": "MacBook Air (M1).",
+      "creator": "MIKI Yoshihito. (#mikiyoshihito)",
+      "creator_url": "https://www.flickr.com/photos/7940758@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/7940758@N07/51425901443",
+      "provider": "flickr",
+      "file": "macbook-air-m1-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Type-C DAC Adapter (Conexant CX31993) 384kHz 32bit.",
+      "creator": "MIKI Yoshihito. (#mikiyoshihito)",
+      "creator_url": "https://www.flickr.com/photos/7940758@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/7940758@N07/51804569242",
+      "provider": "flickr",
+      "file": "macbook-air-m1-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "switch-oled": [
+    {
+      "title": "Nintendo Switch Console - Powered On",
+      "creator": "brettchalupa",
+      "creator_url": "https://www.flickr.com/photos/51037366@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/51037366@N05/32674601664",
+      "provider": "flickr",
+      "file": "switch-oled-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Nintendo Switch – OLED-Modell mit gedockter Konsole 20230506 HOF01624 RAW-Export",
+      "creator": "PantheraLeo1359531",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:PantheraLeo1359531",
+      "license": "by",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=131606693",
+      "provider": "wikimedia",
+      "file": "switch-oled-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Nintendo Switch - Left Joy-Con Attached",
+      "creator": "brettchalupa",
+      "creator_url": "https://www.flickr.com/photos/51037366@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/51037366@N05/33477550456",
+      "provider": "flickr",
+      "file": "switch-oled-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "garmin-fr245": [
+    {
+      "title": "Garmin Forerunner 35 GPS Watch",
+      "creator": "slgckgc",
+      "creator_url": "https://www.flickr.com/photos/14771153@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/14771153@N04/50660957927",
+      "provider": "flickr",
+      "file": "garmin-fr245-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Garmin Forerunner 35 GPS Watch",
+      "creator": "slgckgc",
+      "creator_url": "https://www.flickr.com/photos/14771153@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/14771153@N04/53513927447",
+      "provider": "flickr",
+      "file": "garmin-fr245-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Garmin Forerunner 35 GPS Watch",
+      "creator": "slgckgc",
+      "creator_url": "https://www.flickr.com/photos/14771153@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/14771153@N04/50660957927",
+      "provider": "flickr",
+      "file": "garmin-fr245-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "levis-trucker": [
+    {
+      "title": "jeans jacket",
+      "creator": "Muffet",
+      "creator_url": "https://www.flickr.com/photos/53133240@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/53133240@N00/7669609904",
+      "provider": "flickr",
+      "file": "levis-trucker-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Denim jacket cuff closeup",
+      "creator": "section215",
+      "creator_url": null,
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=27105697",
+      "provider": "wikimedia",
+      "file": "levis-trucker-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "nike-airmax-90": [
+    {
+      "title": "Nike Air Max 90 Infrared",
+      "creator": "chrishimself",
+      "creator_url": "https://www.flickr.com/photos/29322132@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/29322132@N08/4805905007",
+      "provider": "flickr",
+      "file": "nike-airmax-90-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Nike Air Max 90 Infrared",
+      "creator": "chrishimself",
+      "creator_url": "https://www.flickr.com/photos/29322132@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/29322132@N08/4805905383",
+      "provider": "flickr",
+      "file": "nike-airmax-90-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "patagonia-nano-puff": [
+    {
+      "title": "Patagonia Nano-Puff Jacket (51011161655)",
+      "creator": "ajay_suresh",
+      "creator_url": "https://www.flickr.com/people/83136374@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=104519013",
+      "provider": "wikimedia",
+      "file": "patagonia-nano-puff-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Nano Puff - Macro",
+      "creator": "ajay_suresh",
+      "creator_url": "https://www.flickr.com/photos/83136374@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/83136374@N05/49851864661",
+      "provider": "flickr",
+      "file": "patagonia-nano-puff-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "coach-crossbody": [
+    {
+      "title": "Coach.",
+      "creator": "MIKI Yoshihito. (#mikiyoshihito)",
+      "creator_url": "https://www.flickr.com/photos/7940758@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/7940758@N07/15616033689",
+      "provider": "flickr",
+      "file": "coach-crossbody-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "...and I Am a Coach Addict....",
+      "creator": "slgckgc",
+      "creator_url": "https://www.flickr.com/photos/14771153@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/14771153@N04/5379108922",
+      "provider": "flickr",
+      "file": "coach-crossbody-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "resized and re-encoded"
+    }
+  ],
+  "docmartens-1460": [
+    {
+      "title": "Dr Martens",
+      "creator": "apdk",
+      "creator_url": "https://www.flickr.com/photos/62337512@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/62337512@N00/3368220691",
+      "provider": "flickr",
+      "file": "docmartens-1460-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Cupboard",
+      "creator": "mac morrison",
+      "creator_url": "https://www.flickr.com/photos/57453523@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/57453523@N00/5007471619",
+      "provider": "flickr",
+      "file": "docmartens-1460-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Dr Martens",
+      "creator": "apdk",
+      "creator_url": "https://www.flickr.com/photos/62337512@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/62337512@N00/3368220691",
+      "provider": "flickr",
+      "file": "docmartens-1460-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "ikea-poang": [
+    {
+      "title": "POÄNG in “Knisa Beige”",
+      "creator": "brownpau",
+      "creator_url": "https://www.flickr.com/photos/44124483743@N01",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/44124483743@N01/45144076894",
+      "provider": "flickr",
+      "file": "ikea-poang-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Ikea Poang Chair",
+      "creator": "ramblinbears",
+      "creator_url": "https://www.flickr.com/photos/80897558@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/80897558@N05/7435932076",
+      "provider": "flickr",
+      "file": "ikea-poang-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "POÄNG in “Knisa Beige”",
+      "creator": "brownpau",
+      "creator_url": "https://www.flickr.com/photos/44124483743@N01",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/44124483743@N01/45144076894",
+      "provider": "flickr",
+      "file": "ikea-poang-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "teak-sideboard": [
+    {
+      "title": "SOLD: Vintage buffet / sideboard",
+      "creator": "TheLivingRoominKenmore",
+      "creator_url": "https://www.flickr.com/photos/36910487@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/36910487@N07/4501371181",
+      "provider": "flickr",
+      "file": "teak-sideboard-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "SOLD: Walnut dining set buffet, sideboard, console",
+      "creator": "TheLivingRoominKenmore",
+      "creator_url": "https://www.flickr.com/photos/36910487@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/36910487@N07/5103331030",
+      "provider": "flickr",
+      "file": "teak-sideboard-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "SOLD: Vintage buffet / sideboard",
+      "creator": "TheLivingRoominKenmore",
+      "creator_url": "https://www.flickr.com/photos/36910487@N07",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/36910487@N07/4501371181",
+      "provider": "flickr",
+      "file": "teak-sideboard-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "aeron-size-b": [
+    {
+      "title": "Ahhhh... Totally digging and grateful for my greatly needed new work chair. Super stoked. Muchas gracias Craig's List!",
+      "creator": "Howdy, I'm H. Michael Karshis",
+      "creator_url": "https://www.flickr.com/photos/48889115061@N01",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/48889115061@N01/24977519062",
+      "provider": "flickr",
+      "file": "aeron-size-b-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "IMG_20211203_140525",
+      "creator": "pockethifi",
+      "creator_url": "https://www.flickr.com/photos/31667440@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/31667440@N04/52193522254",
+      "provider": "flickr",
+      "file": "aeron-size-b-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Ahhhh... Totally digging and grateful for my greatly needed new work chair. Super stoked. Muchas gracias Craig's List!",
+      "creator": "Howdy, I'm H. Michael Karshis",
+      "creator_url": "https://www.flickr.com/photos/48889115061@N01",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/48889115061@N01/24977519062",
+      "provider": "flickr",
+      "file": "aeron-size-b-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "brass-arc-lamp": [
+    {
+      "title": "Dining room, Apartment 12, Aylesbury, Hove",
+      "creator": "El gran sueño - Asturias",
+      "creator_url": "https://www.flickr.com/photos/92281340@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/92281340@N03/8519741288",
+      "provider": "flickr",
+      "file": "brass-arc-lamp-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Dining room, Apartment 12, Aylesbury, Hove",
+      "creator": "El gran sueño - Asturias",
+      "creator_url": "https://www.flickr.com/photos/92281340@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/92281340@N03/8519741288",
+      "provider": "flickr",
+      "file": "brass-arc-lamp-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "oak-dining-table": [
+    {
+      "title": "two gray ceramic mugs on brown wooden dining table - Credit to https://myfriendscoffee.com/",
+      "creator": "John Beans",
+      "creator_url": "https://www.flickr.com/photos/147592390@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/147592390@N06/47580036271",
+      "provider": "flickr",
+      "file": "oak-dining-table-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "clear glass vase on brown wooden dining table - Credit to https://myfriendscoffee.com/",
+      "creator": "John Beans",
+      "creator_url": "https://www.flickr.com/photos/147592390@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/147592390@N06/47600105261",
+      "provider": "flickr",
+      "file": "oak-dining-table-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "two gray ceramic mugs on brown wooden dining table - Credit to https://myfriendscoffee.com/",
+      "creator": "John Beans",
+      "creator_url": "https://www.flickr.com/photos/147592390@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/147592390@N06/47580036271",
+      "provider": "flickr",
+      "file": "oak-dining-table-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "dune-hardcover": [
+    {
+      "title": "Thick encyclopedias with colorful hardcovers",
+      "creator": "Horia Varlan",
+      "creator_url": "https://www.flickr.com/photos/10361931@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/10361931@N06/4268896936",
+      "provider": "flickr",
+      "file": "dune-hardcover-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Two stacks of books next to each other",
+      "creator": "Horia Varlan",
+      "creator_url": "https://www.flickr.com/photos/10361931@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/10361931@N06/4324253901",
+      "provider": "flickr",
+      "file": "dune-hardcover-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Thick encyclopedias with colorful hardcovers",
+      "creator": "Horia Varlan",
+      "creator_url": "https://www.flickr.com/photos/10361931@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/10361931@N06/4268896936",
+      "provider": "flickr",
+      "file": "dune-hardcover-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "pragmatic-programmer": [
+    {
+      "title": "book open stack 2",
+      "creator": "Jo Naylor",
+      "creator_url": "https://www.flickr.com/photos/11598937@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/11598937@N08/4927243431",
+      "provider": "flickr",
+      "file": "pragmatic-programmer-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "book opened",
+      "creator": "Jo Naylor",
+      "creator_url": "https://www.flickr.com/photos/11598937@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/11598937@N08/4927229291",
+      "provider": "flickr",
+      "file": "pragmatic-programmer-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "book open stack 2",
+      "creator": "Jo Naylor",
+      "creator_url": "https://www.flickr.com/photos/11598937@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/11598937@N08/4927243431",
+      "provider": "flickr",
+      "file": "pragmatic-programmer-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "hp-box-set": [
+    {
+      "title": "Harry Potter Book Collection",
+      "creator": "ajay_suresh",
+      "creator_url": "https://www.flickr.com/photos/83136374@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/83136374@N05/51825490018",
+      "provider": "flickr",
+      "file": "hp-box-set-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Harry Potter book",
+      "creator": "charclam",
+      "creator_url": "https://www.flickr.com/photos/97144302@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/97144302@N00/4657798235",
+      "provider": "flickr",
+      "file": "hp-box-set-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Harry Potter Book Collection",
+      "creator": "ajay_suresh",
+      "creator_url": "https://www.flickr.com/photos/83136374@N05",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/83136374@N05/51825490018",
+      "provider": "flickr",
+      "file": "hp-box-set-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "taschen-bauhaus": [
+    {
+      "title": "BAUHAUS BOOK, 1969",
+      "creator": "Michael Francis McCarthy",
+      "creator_url": "https://www.flickr.com/photos/24294133@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/24294133@N03/4141398341",
+      "provider": "flickr",
+      "file": "taschen-bauhaus-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "BAUHAUS BOOK 1969 WHITE",
+      "creator": "Michael Francis McCarthy",
+      "creator_url": "https://www.flickr.com/photos/24294133@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/24294133@N03/4141396909",
+      "provider": "flickr",
+      "file": "taschen-bauhaus-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "BAUHAUS BOOK, 1969",
+      "creator": "Michael Francis McCarthy",
+      "creator_url": "https://www.flickr.com/photos/24294133@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/24294133@N03/4141398341",
+      "provider": "flickr",
+      "file": "taschen-bauhaus-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "breville-barista": [
+    {
+      "title": "Breville Barista Pro BES878 Espresso Machine coffee maker Credit to https://coffee-rank.com",
+      "creator": "coffee-rank",
+      "creator_url": "https://www.flickr.com/photos/189612330@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/189612330@N06/50316135657",
+      "provider": "flickr",
+      "file": "breville-barista-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Breville Barista Pro BES878 Espresso Machine maker - Credit to https://coffee-rank.com",
+      "creator": "coffee-rank",
+      "creator_url": "https://www.flickr.com/photos/189612330@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/189612330@N06/50315953691",
+      "provider": "flickr",
+      "file": "breville-barista-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Breville Barista Pro BES878 Espresso Machine coffee maker Credit to https://coffee-rank.com",
+      "creator": "coffee-rank",
+      "creator_url": "https://www.flickr.com/photos/189612330@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/189612330@N06/50316135657",
+      "provider": "flickr",
+      "file": "breville-barista-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "le-creuset-dutch-oven": [
+    {
+      "title": "Le Creuset in Miniature",
+      "creator": "Steve Snodgrass",
+      "creator_url": "https://www.flickr.com/photos/10710442@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/10710442@N08/6496538109",
+      "provider": "flickr",
+      "file": "le-creuset-dutch-oven-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Le Creuset Blue Dutch Oven",
+      "creator": "Didriks",
+      "creator_url": "https://www.flickr.com/photos/49889671@N03",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/49889671@N03/8019715811",
+      "provider": "flickr",
+      "file": "le-creuset-dutch-oven-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Le Creuset in Miniature",
+      "creator": "Steve Snodgrass",
+      "creator_url": "https://www.flickr.com/photos/10710442@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/10710442@N08/6496538109",
+      "provider": "flickr",
+      "file": "le-creuset-dutch-oven-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "trek-fx2": [
+    {
+      "title": "Trek FX-S5 at rest in the flowerfields (Noordwijkerhout, The Netherlands 2019)",
+      "creator": "paularps",
+      "creator_url": "https://www.flickr.com/photos/21160385@N02",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/21160385@N02/40709603263",
+      "provider": "flickr",
+      "file": "trek-fx2-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Trek FX-S5 at rest in the flowerfields (Noordwijkerhout, The Netherlands 2019) (40709603263)",
+      "creator": "Paul Arps from The Netherlands",
+      "creator_url": "https://www.flickr.com/people/21160385@N02",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=82617549",
+      "provider": "wikimedia",
+      "file": "trek-fx2-2.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Trek FX-S5 at rest in the flowerfields (Noordwijkerhout, The Netherlands 2019)",
+      "creator": "paularps",
+      "creator_url": "https://www.flickr.com/photos/21160385@N02",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/21160385@N02/40709603263",
+      "provider": "flickr",
+      "file": "trek-fx2-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ],
+  "fender-strat": [
+    {
+      "title": "Fender Stratocaster",
+      "creator": "jboylan67",
+      "creator_url": "https://www.flickr.com/photos/85661855@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/85661855@N00/3036986846",
+      "provider": "flickr",
+      "file": "fender-strat-1.webp",
+      "kind": "photo",
+      "changes": "resized and re-encoded"
+    },
+    {
+      "title": "Fender Stratocaster",
+      "creator": "jboylan67",
+      "creator_url": "https://www.flickr.com/photos/85661855@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_url": "https://www.flickr.com/photos/85661855@N00/3036986846",
+      "provider": "flickr",
+      "file": "fender-strat-wear.webp",
+      "kind": "wear_closeup",
+      "changes": "cropped, resized and re-encoded"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+# Local services for Second Orbit.
+#
+#   docker compose up --build          → Postgres + the app (migrated + seeded) on http://localhost:3000
+#   docker compose up -d --wait db     → just Postgres, for `npm run dev`
+#   docker compose --profile s3 up -d  → also start RustFS, a local S3-compatible store
+#
+# Credentials below are for local development only.
+
+services:
+  db:
+    image: postgres:18-alpine
+    environment:
+      POSTGRES_USER: marketplace
+      POSTGRES_PASSWORD: marketplace
+      POSTGRES_DB: marketplace
+    ports:
+      - "54320:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql
+      - ./docker/postgres-init.sql:/docker-entrypoint-initdb.d/10-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U marketplace -d marketplace"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+  s3:
+    image: rustfs/rustfs:1.0.4
+    profiles: ["s3"]
+    environment:
+      RUSTFS_ACCESS_KEY: localdev
+      RUSTFS_SECRET_KEY: localdev-secret
+      RUSTFS_CONSOLE_ENABLE: "true"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - s3data:/data
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://marketplace:marketplace@db:5432/marketplace
+      APP_URL: ${APP_URL:-http://localhost:3000}
+      MEDIA_DIR: /app/.data/media
+      # Show the demo account hint on the sign-in page (local only).
+      SHOW_DEMO_ACCOUNTS: "1"
+    env_file:
+      - path: .env
+        required: false
+    ports:
+      - "3000:3000"
+    volumes:
+      # Same folder `npm run dev` uses, so dev and Docker share seeded media.
+      - ./.data/media:/app/.data/media
+
+volumes:
+  pgdata:
+  s3data:
